@@ -9,3 +9,5 @@ Ar tiki klykianciu varskeciu
 
 - [ ] taip
 - [ ] ne
+
+![Ufonautas ir jo lekste](./img/ufo.jpg)
