@@ -1,9 +1,9 @@
 # Ufo-webpage
-Simple design, learning HTML ir CSS
+Simple design, learning **HTML** ir _CSS_
 
 - labas
 - rytas 
-- Lietuva
+- ~~Lietuva~~
 
 Ar tiki klykianciu varskeciu
 
@@ -81,7 +81,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Paulius: [Github](https://github.com/TheBigSad108)
 
 ## ⚠️ License
 
